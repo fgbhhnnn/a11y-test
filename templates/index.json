@@ -234,7 +234,7 @@
       "settings": {
         "collection": "",
         "products": [
-
+          "tanida-gaming-dekstop"
         ],
         "full_width": true,
         "stack_products": false,
@@ -463,8 +463,8 @@
           "type": "quote",
           "settings": {
             "logo_width": 100,
-            "author": "",
-            "content": "Listen to what our customer says",
+            "author": "A11y Smith",
+            "content": "Can't believe this is real",
             "show_rating": false,
             "rating": 4
           }
@@ -473,8 +473,8 @@
           "type": "quote",
           "settings": {
             "logo_width": 100,
-            "author": "",
-            "content": "Or share content about your promotion, offers...",
+            "author": "A11y Yamanda",
+            "content": "Best Deals of the Century",
             "show_rating": false,
             "rating": 4
           }
