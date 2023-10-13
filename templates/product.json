@@ -90,11 +90,11 @@
       "settings": {
         "full_width": true,
         "show_fixed_add_to_cart": true,
-        "desktop_media_width": 55,
+        "desktop_media_width": 65,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
-        "mobile_carousel_control": "floating_dots",
-        "enable_video_autoplay": false,
+        "mobile_carousel_control": "dots",
+        "enable_video_autoplay": true,
         "enable_video_looping": true,
         "enable_image_zoom": true,
         "max_image_zoom_level": 3,
@@ -131,16 +131,6 @@
     },
     "168440622130ba54c9": {
       "type": "apps",
-      "blocks": {
-        "ad4fd610-de18-40bb-8218-ae8a44d2879b": {
-          "type": "shopify:\/\/apps\/product-reviews\/blocks\/reviews\/bae150af-8da8-48b2-9867-398188115e5f",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "ad4fd610-de18-40bb-8218-ae8a44d2879b"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
