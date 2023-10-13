@@ -66,9 +66,10 @@
         "1664424046b00c932c-0": {
           "type": "item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/9818-20-2135_720_1.jpg",
             "stretch_image": true,
             "link_text": "",
-            "link_url": "",
+            "link_url": "shopify:\/\/products\/classic-style-leather-sofa",
             "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
@@ -78,21 +79,10 @@
         "1664424046b00c932c-1": {
           "type": "item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/6807-20-2135_720_1.jpg",
             "stretch_image": true,
             "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "1664424046b00c932c-2": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
+            "link_url": "shopify:\/\/products\/leather-sofa-double-slim-edition",
             "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
@@ -102,21 +92,10 @@
         "1664424046b00c932c-3": {
           "type": "item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/6896-20-2135_720_1.jpg",
             "stretch_image": true,
             "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "e4a0ef18-1856-4ddd-83d8-871a60d7acac": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
+            "link_url": "shopify:\/\/products\/leather-sofa-double",
             "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
@@ -127,17 +106,15 @@
       "block_order": [
         "1664424046b00c932c-0",
         "1664424046b00c932c-1",
-        "1664424046b00c932c-2",
-        "1664424046b00c932c-3",
-        "e4a0ef18-1856-4ddd-83d8-871a60d7acac"
+        "1664424046b00c932c-3"
       ],
       "settings": {
         "full_width": false,
         "block_size": "medium",
         "subheading": "",
         "title": "",
-        "content": "",
-        "link_url": "",
+        "content": "<h3><strong>double sofa <\/strong><\/h3>",
+        "link_url": "shopify:\/\/products\/classic-style-leather-sofa",
         "link_text": "",
         "background": "",
         "background_gradient": "",
