@@ -2,9 +2,7 @@
 
 {%- assign text_position = section.settings.text_position -%}
 {%- assign values_column_count = section.blocks | where: 'type', 'values' | size -%}
-<script>
-  console.log("test","{{ product.id }}")
-</script>
+
 
 
 {%- comment -%}
@@ -65,8 +63,10 @@ LIQUID
               {%- render 'styled-text', content: section.settings.title, text_color: section.settings.heading_color, gradient: section.settings.heading_gradient -%}
             </h2>
           {%- endif -%}
-
+          {{ product.description }}
+          {%- comment -%}
           {{- section.settings.content -}}
+          {%- endcomment -%}
 
           {%- if section.settings.button_text != blank -%}
             {%- render 'button', size: 'lg', href: section.settings.button_url, content: section.settings.button_text, background: section.settings.button_background, text_color: section.settings.button_text_color -%}
