@@ -2,6 +2,10 @@
 
 {%- assign text_position = section.settings.text_position -%}
 {%- assign values_column_count = section.blocks | where: 'type', 'values' | size -%}
+<script>
+  console.log("test","{{ product.id }}")
+</script>
+
 
 {%- comment -%}
 ------------------------------------------------------------------------------------------------------------------------
