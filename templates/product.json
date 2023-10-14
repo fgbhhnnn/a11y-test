@@ -142,9 +142,9 @@
       "settings": {
         "full_width": true,
         "content_size": "medium",
-        "subheading": "Subheading",
-        "title": "Heading",
-        "first_tab_open": false,
+        "subheading": "Description",
+        "title": "",
+        "first_tab_open": true,
         "background": "",
         "background_gradient": "",
         "text_color": "",
