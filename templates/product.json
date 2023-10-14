@@ -112,7 +112,7 @@
         "template--21306092912934__f1324120-74b5-4911-8c11-09f506a3ee9b-tab-1": {
           "type": "tab",
           "settings": {
-            "title": "Tab 1",
+            "title": "Desription",
             "content": "<p>Use this text to share information about your brand with your customers.<\/p>",
             "page": ""
           }
@@ -142,8 +142,8 @@
       "settings": {
         "full_width": true,
         "content_size": "medium",
-        "subheading": "Subheading",
-        "title": "Heading",
+        "subheading": "",
+        "title": "",
         "first_tab_open": false,
         "background": "",
         "background_gradient": "",
