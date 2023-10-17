@@ -6,6 +6,8 @@
         "slide-1": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Hd52a06210f024c9182e1977711efa77dM.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/H0a1ad8f9dba44abfb0b6a00912c3510fQ.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -26,6 +28,7 @@
         "slide-2": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Ha5611683d6714fec8909549efff316acW.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
